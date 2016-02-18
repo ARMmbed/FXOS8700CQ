@@ -1,1 +1,1 @@
-FXOS8700CQ - Acclerometer Driver for K64F
+FXOS8700CQ - FXOS8700CQ library for motion detection (accelerometer) for K64F
