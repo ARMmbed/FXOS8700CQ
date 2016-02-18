@@ -1,0 +1,9 @@
+{
+  "name": "fxos8700cq",
+  "version": "0.1.0",
+  "description": "K64F Acclerometer Driver",
+  "keywords": [],
+  "author": "Doug Anson",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
