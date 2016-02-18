@@ -1,3 +1,5 @@
+#include "mbed-drivers/mbed.h"
+#include "minar/minar.h"
 #include "fxos8700cq/fxos8700cq.h"
 
 uint8_t status_reg; // Status register contents

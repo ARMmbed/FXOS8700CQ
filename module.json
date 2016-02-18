@@ -5,5 +5,7 @@
   "keywords": [],
   "author": "Doug Anson",
   "license": "Apache-2.0",
-  "dependencies": {}
+  "dependencies": {
+    "mbed-drivers": "^1.0.0"
+  }
 }
