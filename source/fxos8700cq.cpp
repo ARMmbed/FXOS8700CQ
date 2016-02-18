@@ -85,7 +85,6 @@ FXOS8700CQ::FXOS8700CQ(PinName sda, PinName scl, int addr) : dev_i2c(sda, scl), 
 // Destruct class
 FXOS8700CQ::~FXOS8700CQ(void) {}
 
-
 void FXOS8700CQ::enable(void)
 {
     uint8_t data[2];
